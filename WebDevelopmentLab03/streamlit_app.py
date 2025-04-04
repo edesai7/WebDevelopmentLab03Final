@@ -27,5 +27,6 @@ Welcome to our Streamlit Web Development Lab03 app! You can navigate between the
 4. **Lyric Analyzer Chatbot**: Paste in your favorite lyrics and chat with our AI to explore the meaning behind the words.
 
 """)
-st.image("MusicWave.jpg", caption="Find your vibe 🎵", use_container_width=True)
+st.image("Images/MusicWave.jpg", caption="Find your vibe 🎵", use_container_width=True)
+
 
